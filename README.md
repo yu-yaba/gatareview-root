@@ -67,7 +67,7 @@ https://www.gatareview.com
 ## リポジトリのクローン
 1. このリポジトリをクローンする
 2. フロントエンドリポジトリをcloneする
-  * https://github.com/yu-yaba/gatareview-back
+  * https://github.com/yu-yaba/gatareview-front
 3. バックエンドリポジトリをcloneする
   * https://github.com/yu-yaba/gatareview-back
 
